@@ -1,1 +1,11 @@
 /* Primary color */
+
+.page {
+    background-color: #B81D18;
+    color: #b6b6b6;
+}
+
+.mini-portrait {
+    border-radius: 50%;
+    max-width: 5%;
+}
