@@ -14,3 +14,10 @@ html {
     border-radius: 50%;
     max-width: 5%;
 }
+
+.footer {
+    align-items: center;
+    border-radius: 10px;
+    border-color: green;
+    border-style: solid;
+}
