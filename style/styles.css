@@ -33,3 +33,25 @@ body {
 
 #main-subtitle {
 }
+
+.timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.timeline-container {
+    padding: 10px 40px;
+    position: relative;
+    width: 50%
+}
+/* <div class="timeline">
+    <div class="timeline-container left">
+        <div class="timeline-content">
+            <h2>Date</h2>
+            <p>Many things happened</p>
+        </div>
+    </div>
+</div> */
+
+/* w3schools.com/howto/howtow_css_timeline.asp */
